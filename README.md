@@ -4,3 +4,4 @@
 - File CongTy.java là file đầu tiên khi khởi chạy.
 - Chú ý: 
 	+ Các file người dùng trong thư mục: JavaSwingIntelij\src\user
+	+ Username: admin && password: admin
